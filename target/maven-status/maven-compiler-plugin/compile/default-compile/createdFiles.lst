@@ -1,0 +1,3 @@
+com\laioffer\jupiter\ApplicationConfig.class
+com\laioffer\jupiter\service\GameService.class
+com\laioffer\jupiter\controller\GameController.class
