@@ -1,3 +1,10 @@
-com\laioffer\jupiter\ApplicationConfig.class
+com\laioffer\jupiter\entity\db\Item.class
+com\laioffer\jupiter\entity\response\Game$Builder.class
 com\laioffer\jupiter\service\GameService.class
+com\laioffer\jupiter\entity\db\User.class
+com\laioffer\jupiter\service\TwitchException.class
+com\laioffer\jupiter\ApplicationConfig.class
+com\laioffer\jupiter\entity\db\ItemType.class
+com\laioffer\jupiter\entity\response\Game$1.class
 com\laioffer\jupiter\controller\GameController.class
+com\laioffer\jupiter\entity\response\Game.class
